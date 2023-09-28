@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\Book-Class\Book-Class\bin\Debug\Book-Class.exe.config
+C:\Users\Asus\source\repos\Book-Class\Book-Class\bin\Debug\Book-Class.exe
+C:\Users\Asus\source\repos\Book-Class\Book-Class\bin\Debug\Book-Class.pdb
+C:\Users\Asus\source\repos\Book-Class\Book-Class\obj\Debug\Book-Class.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Book-Class\Book-Class\obj\Debug\Book_Class.Form1.resources
+C:\Users\Asus\source\repos\Book-Class\Book-Class\obj\Debug\Book_Class.Properties.Resources.resources
+C:\Users\Asus\source\repos\Book-Class\Book-Class\obj\Debug\Book-Class.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\Book-Class\Book-Class\obj\Debug\Book-Class.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Book-Class\Book-Class\obj\Debug\Book-Class.exe
+C:\Users\Asus\source\repos\Book-Class\Book-Class\obj\Debug\Book-Class.pdb
